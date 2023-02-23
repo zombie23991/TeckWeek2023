@@ -1,16 +1,12 @@
-# teckweek
+# TeckWeek 2023: Flutter el futur multiplataforma
 
-Repositori de projecte de proba per a TeckWeek 2023 de escola Pia Santa Anna de Mataró, fet per el equip de Leviathan Creative Studios
+Repositori de projecte de proba per a TeckWeek 2023 de escola Pia Santa Anna de Mataró, fet per el equip de Leviathan Creative Studios, aqui es pot trobar el repositori d'exemple crear per als alumnes de la Escola Pia Santa Anna de Mataró
 
-## Getting Started
+## Recursos
 
-This project is a starting point for a Flutter application.
+Aqui pots veure tots els widgets que pots utilitzar amb flutter
 
-A few resources to get you started if this is your first Flutter project:
+- [Widgets de Componentes Material](https://esflutter.dev/docs/development/ui/widgets/material)
+- [Pub.dev: Buscar dependencies](https://pub.dev/)
+- [Guia de desenovulpament de FLutter](https://esflutter.dev/docs/development)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
